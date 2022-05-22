@@ -95,7 +95,7 @@ Now, you can go back to Bottles and click on the Application for the game, and c
 
 Go into the properties of the .desktop file, and copy the Command used for it. For example, mine was `flatpak run --command=bottles-cli com.usebottles.bottles run -p 'Hatsune Miku Project DIVA Aracde Future Tone' -b 'Diva'`. 
 
-Finally, back in Steam, go to the non-Steam game you added, wipe the `TARGET` and `STAT IN` fields, and add the Command you copied earlier into `LAUNCH OPTIONS`. If the command starts with `flatpak run --command=`, then you should be good to go.
+Finally, back in Steam, go to the non-Steam game you added, wipe the `TARGET` and `START IN` fields, and add the Command you copied earlier into `LAUNCH OPTIONS`. If the command starts with `flatpak run --command=`, then you should be good to go.
 
 ----------------
 
