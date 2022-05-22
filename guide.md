@@ -79,8 +79,34 @@ Now, press `Launch`. If all went well, the game should now boot up. It might tak
 
 ![image](https://user-images.githubusercontent.com/22461806/169700500-ad224c67-7094-4f71-9c1d-90662c3cbe5b.png)
 
+Finally, under your **Programs**, you can add another `Diva.exe` like you did before, but this time go into the launch options and add `--launch` to bypass the launcher and create a method to boot up the game directly. You can name this something different from to differentiate it from PDLauncher.
+
 ## EXTRA STUFF
 
-Under your **Programs**, you can add another `Diva.exe` like you did before, but this time go into the launch options and add `--launch` to bypass the launcher. You can name this something different from to differentiate it from PDLauncher.
+----------------
 
-If you want to launch the game with Steam, you need to create a shortcut for your Bottle. Install Flatseal from the Discover browser, launch it and go into Bottles' settings. Scroll down to `Other files` and add `/home/deck/.local/share/applications`. Now, you can go back to Bottles and click on the Application for the game, and click on `Add desktop entry`. Then, add the .desktop file pointing to the game, which is in `/home/deck/.local/share/applications/`. Go into the properties of the .desktop file, and copy the Command used for it. For example, mine was `flatpak run --command=bottles-cli com.usebottles.bottles run -p 'Hatsune Miku Project DIVA Aracde Future Tone' -b 'Diva'`. Finally, back in Steam, go to the non-Steam game you added, wipe the `TARGET` and `STAT IN` fields, and add the Command you copied earlier into `LAUNCH OPTIONS`. If the command starts with `flatpak run --command=`, then you should be good to go.
+If your game is running slow still, try adjusting some settings and disabling things you may not need. Remember that you're running this thing on a 800p tablet screen, so you're not going to need to have all the specs maxxed out, especially if it's causing some performance issues.
+
+----------------
+
+If you want to launch the game with Steam, you need to create a shortcut for your Bottle. Install Flatseal from the Discover browser, launch it and go into Bottles' settings. Scroll down to `Other files` and add `/home/deck/.local/share/applications`. 
+
+Now, you can go back to Bottles and click on the Application for the game, and click on `Add desktop entry`. Then, add the .desktop file pointing to the game, which is in `/home/deck/.local/share/applications/`. 
+
+Go into the properties of the .desktop file, and copy the Command used for it. For example, mine was `flatpak run --command=bottles-cli com.usebottles.bottles run -p 'Hatsune Miku Project DIVA Aracde Future Tone' -b 'Diva'`. 
+
+Finally, back in Steam, go to the non-Steam game you added, wipe the `TARGET` and `STAT IN` fields, and add the Command you copied earlier into `LAUNCH OPTIONS`. If the command starts with `flatpak run --command=`, then you should be good to go.
+
+----------------
+
+Adding mods should be about as straightforward as it is on Windows, and you can grab plenty of mods for Aracde in the [Project DIVA Modding 2nd](https://discord.gg/cvBVGDZ) Discord Server. It's possible something can break though, so be prepared to troubleshoot if that happens.
+
+----------------
+
+For more help on PDLoader, [make sure to check the wiki for it here](https://github.com/PDModdingCommunity/PD-Loader/wiki/2\)-Installation).
+
+----------------
+
+If you run into any more issues, you can try contacting me on Discord at **koba#8162**. I can't guarantee I'll be able to help you, but if you have any issues with the guide, feel free to let me know and I'll see what I can do to help or if there's anything that needs to be fixed.
+
+Also, it's completely possible this guide may become obsolete in the future as someone else could come up with a better way to get the game running on Steam Deck ~~or SEGA could bring Mega Mix to Steam, but [there's no way that'll ever happen. right?](https://steamdb.info/app/1905750/)~~. Hopefully this guide helps at least one person though. If the game works for you, hope you're able to enjoy it!
