@@ -1,19 +1,19 @@
 ## PROJECT DIVA ARCADE FUTURE TONE STEAM DECK GUIDE
 
-WARNING: This method worked for me, and it may not worked for you. I don't take any responsibility if you somehow end up bricking or breaking something, and I can't provide tech support for you there. This guide isn't going to be too technical, but make sure you're safe modifying your system if need be, and that you're comfortable with something possibly breaking down the line. You've been warned.
+WARNING: This method worked for me, but it may not work for you. I don't take any responsibility if you somehow end up bricking or breaking something, and I can't provide tech support for anything relating to that either. This guide isn't going to be _too_ technical, but **make sure you're safe modifying your system if needed, and that you're comfortable with something possibly breaking down the line.** You've been warned.
 
 Still here? Cool, let's get started.
 
 ## PREQUISITES
 
-- A Steam Deck, obviously. Make sure you have enough storage, the base storage of 64 GB may not be enough for everything.
-- A copy of Project Diva Arcade Future Tone. I'm not going to share that here since it'd be piracy, just know you need the actual game, probably version 7.01 or 7.10.
+- A Steam Deck. Make sure you have enough storage, the base storage of 64 GB may not be enough for everything. You'll probably need around 35 GB of space for everything.
+- A copy of Project Diva Arcade Future Tone. I'm not going to share that here since it'd be piracy, just know that you need the actual game, either version 7.01 or 7.10.
 - A copy of PD-Loader in your PDAFT folder. [Make sure to follow the wiki guide for that.](https://github.com/PDModdingCommunity/PD-Loader/wiki/2\)-Installation)
 - [A copy of amdgpu-pro-libgl that you can download here](https://drive.google.com/file/d/1LhzgXbzD8k3xfLeJojzKGGOw8Ep6pmxq/view?usp=sharing)
 
 ## DOWNLOADING/MOVING THE FILES
 
-Download or move your PDAFT folder and extract the amdgpu-pro-libgl folder to your Desktop, just to keep track of where it is.
+Download or move your PDAFT folder and extract the amdgpu-pro-libgl folder to your Desktop on your Steam Deck, just to keep track of where it is.
 
 Again, make sure you have enough storage to do this. If you need to, free up some space on your Internal Storage by getting an SD Card and moving stuff over to that.
 
@@ -33,7 +33,7 @@ In the Dependencies tab, **install both dotnet48 and vcredist2019**. This might 
 
 ![image](https://user-images.githubusercontent.com/22461806/169699906-18fab498-e994-4b41-a1c8-78f9eb30555d.png)
 
-In the Preferences tab, click on **Manage drives**, and then **take note where the C drive is**. If you used the same name as mine, your C drive will be under `/home/deck/.var/app/com.usebottles.bottles/data/bottles/bottles/Diva/drive_c/`. Replace `/Diva/` with whatever other name you used, if you ended up using another name. **Remember to do this from here on out if there's a file path I write down, or else stuff might break.**
+In the Preferences tab, click on **Manage drives**, and then **take note where the C drive is**. If you used the same name as mine, your C drive will be under `/home/deck/.var/app/com.usebottles.bottles/data/bottles/bottles/Diva/drive_c/`. Replace `/Diva/` with whatever other name you used, if you ended up using another name. **Remember to do this from here on out if there's another file path I write down, or else stuff might break.**
 
 ## TRANSFERRING FILES TO YOUR BOTTLE
 
