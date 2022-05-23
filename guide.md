@@ -9,7 +9,7 @@ Still here? Cool, let's get started.
 ## PREQUISITES
 
 - A Steam Deck. Make sure you have enough storage, the base storage of 64 GB may not be enough for everything. You'll probably need around 35 GB of space for everything.
-- A copy of Project Diva Arcade Future Tone. I'm not going to share that here since it'd be piracy, just know that you need the actual game, either version 7.01 or 7.10.
+- A copy of Project Diva Arcade Future Tone. I'm not going to share that here since it'd be piracy, just know that you need the actual game and it needs to be version 7.10.
 - A copy of PD-Loader in your PDAFT folder. [Make sure to follow the wiki guide for that.](https://github.com/PDModdingCommunity/PD-Loader/wiki/2\)-Installation)
 - [A copy of amdgpu-pro-libgl that you can download here](https://drive.google.com/file/d/1LhzgXbzD8k3xfLeJojzKGGOw8Ep6pmxq/view?usp=sharing)
 
