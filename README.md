@@ -1,4 +1,4 @@
-# Hatsune Miku Project DIVA Arcade Future Tone on Steam Deck
+![Project DIVA Arcade Future Tone Steam Deck Guide](img/guidelogo.png)
 
 Do you want to run Project DIVA Arcade on your Steam Deck?
 
