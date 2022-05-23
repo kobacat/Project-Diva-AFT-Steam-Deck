@@ -91,6 +91,8 @@ If your game is running slow still, try adjusting some settings and disabling th
 
 ----------------
 
+**METHOD TO LAUNCH THROUGH STEAM IS CURRENTLY BROKEN**
+
 If you want to launch the game with Steam, you need to create a shortcut for your Bottle. Install Flatseal from the Discover browser, launch it and go into Bottles' settings. Scroll down to `Other files` and add `/home/deck/.local/share/applications`. 
 
 Now, you can go back to Bottles and click on the Application for the game, and click on `Add desktop entry`. Then, add the .desktop file pointing to the game, which is in `/home/deck/.local/share/applications/`. 
