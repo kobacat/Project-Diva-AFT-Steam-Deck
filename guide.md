@@ -1,6 +1,8 @@
-## PROJECT DIVA ARCADE FUTURE TONE STEAM DECK GUIDE
+## PROJECT DIVA ARCADE FUTURE TONE STEAM DECK GUIDE - BOTTLES METHOD
 
-WARNING: This method worked for me, but it may not work for you. I don't take any responsibility if you somehow end up bricking or breaking something, and I can't provide tech support for anything relating to that either. This guide isn't going to be _too_ technical, but **make sure you're safe modifying your system if needed, and that you're comfortable with something possibly breaking down the line.** You've been warned.
+Special thanks to [EIREXE](https://github.com/EIREXE) and [Nastys](https://github.com/nastys) for the help getting this method working properly.
+
+**WARNING:** This method worked for me, but it may not work for you. I don't take any responsibility if you somehow end up bricking or breaking something, and I can't provide tech support for anything relating to that either. This guide isn't going to be _too_ technical, but **make sure you're safe modifying your system if needed, and that you're comfortable with something possibly breaking down the line.** You've been warned.
 
 Still here? Cool, let's get started.
 
