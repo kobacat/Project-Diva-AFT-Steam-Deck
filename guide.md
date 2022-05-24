@@ -1,5 +1,7 @@
 ## PROJECT DIVA ARCADE FUTURE TONE STEAM DECK GUIDE - BOTTLES METHOD
 
+**NOTE: Right now, the method I have written down to get the game working in Gaming Mode doesn't work for me, and may not work for you. You can proceed with this method and try to figure it out yourself if it doesn't work for you, or [try the Lutris method to get the game working instead.](https://github.com/kobacat/Project-Diva-AFT-Steam-Deck/blob/main/guide-lutris.md)**
+
 Special thanks to [EIREXE](https://github.com/EIREXE) and [Nastys](https://github.com/nastys) for the help getting this method working properly.
 
 **WARNING:** This method worked for me, but it may not work for you. I don't take any responsibility if you somehow end up bricking or breaking something, and I can't provide tech support for anything relating to that either. This guide isn't going to be _too_ technical, but **make sure you're safe modifying your system if needed, and that you're comfortable with something possibly breaking down the line.** You've been warned.
