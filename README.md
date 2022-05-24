@@ -8,9 +8,9 @@ Have you been stuck on errors for weeks? ~~maybe that was just me~~
 
 Well, here's a guide on the method I used to get the version of the game working on my Steam Deck.
 
-## [BOTTLES METHOD](https://github.com/kobacat/Project-Diva-AFT-Steam-Deck/blob/main/guide.md)
+## [LUTRIS METHOD](https://github.com/kobacat/Project-Diva-AFT-Steam-Deck/blob/main/guide-lutris.md)
 
-## [LUTRIS METHOD (NOT FINISHED)](https://github.com/kobacat/Project-Diva-AFT-Steam-Deck/blob/main/guide-lutris.md)
+## [BOTTLES METHOD](https://github.com/kobacat/Project-Diva-AFT-Steam-Deck/blob/main/guide.md)
 
 ## Need more help?
 
